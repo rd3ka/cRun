@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rdeka/Documents/Random-Programs/cRun/build",
+  "command": "/usr/bin/c++    -std=c++17 -Wall -Wextra -o CMakeFiles/cRun.dir/src/cRun.cpp.o -c /home/rdeka/Documents/Random-Programs/cRun/src/cRun.cpp",
+  "file": "/home/rdeka/Documents/Random-Programs/cRun/src/cRun.cpp",
+  "output": "CMakeFiles/cRun.dir/src/cRun.cpp.o"
+},
+{
+  "directory": "/home/rdeka/Documents/Random-Programs/cRun/build",
+  "command": "/usr/bin/c++    -std=c++17 -Wall -Wextra -o CMakeFiles/cRun.dir/src/test.cpp.o -c /home/rdeka/Documents/Random-Programs/cRun/src/test.cpp",
+  "file": "/home/rdeka/Documents/Random-Programs/cRun/src/test.cpp",
+  "output": "CMakeFiles/cRun.dir/src/test.cpp.o"
+}
+]

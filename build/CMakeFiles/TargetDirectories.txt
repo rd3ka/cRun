@@ -1,0 +1,3 @@
+/home/rdeka/Documents/Random-Programs/cRun/build/CMakeFiles/cRun.dir
+/home/rdeka/Documents/Random-Programs/cRun/build/CMakeFiles/edit_cache.dir
+/home/rdeka/Documents/Random-Programs/cRun/build/CMakeFiles/rebuild_cache.dir
